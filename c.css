@@ -67,7 +67,7 @@ img#logo { margin: 25px 0 0 90px}
 
 /* SEE PACKAGES SECTION  */
 
-#see-packages { width: 100%; height: 540px; position: relative; background: url(/images/package-panel-bg.jpg) no-repeat center center; background-size: cover; overflow: hidden;}
+#see-packages { width: 100%; height: 540px; position: relative; background: url(/images/package-panel-bg.jpg) no-repeat top center; background-size: cover; overflow: hidden;}
 
 .package-panel { background: #fff; width: 360px; height: 345px; border-radius: 5px; position: absolute; left: 10%; top: 70px; padding: 30px; box-shadow: 0 0.4rem 0.6rem rgba(0, 0, 0, 0.05),
     0 0.8rem 1rem rgba(0, 0, 0, 0.05), 0 1rem 1.4rem rgba(0, 0, 0, 0.05),
@@ -117,7 +117,7 @@ img#logo { margin: 25px 0 0 90px}
 
 /* FOOTER */
 
-footer { width: 100%; background: url(/images/footer-bg.jpg) no-repeat center center; background-size: cover; height: 510px; position: relative; overflow: hidden;}
+footer { width: 100%; background: url(/images/footer-bg.jpg) no-repeat top center; background-size: cover; height: 510px; position: relative; overflow: hidden;}
 
 .footer-panel { background: #fff; width: 360px; height: 310px; border-radius: 5px; position: absolute; right: 10%; top: 55px; padding: 30px; box-shadow: 0 0.4rem 0.6rem rgba(0, 0, 0, 0.05),
     0 0.8rem 1rem rgba(0, 0, 0, 0.05), 0 1rem 1.4rem rgba(0, 0, 0, 0.05),
